@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JavaRock-REEH.falixsrv.me",
+    "ip": "JavaRock-REEH.aternos.me",
     "port": 16798,
     "version": "1.21.1",
     "try-creative": false
